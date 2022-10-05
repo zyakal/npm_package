@@ -1,0 +1,19 @@
+{
+  "name": "@zyakal/npm_package",
+  "version": "6.14.15",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zyakal/npm_package.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zyakal/npm_package/issues"
+  },
+  "homepage": "https://github.com/zyakal/npm_package#readme"
+}
