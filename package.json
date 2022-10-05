@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/zyakal/npm_package/issues"
   },
-  "homepage": "https://github.com/zyakal/npm_package#readme"
+  "homepage": "https://github.com/zyakal/npm_package#readme",
+  "publishConfig": {
+    "@zyakal:registry": "https://npm.pkg.github.com"
+  }
 }
